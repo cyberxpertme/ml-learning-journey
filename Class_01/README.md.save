@@ -57,15 +57,17 @@ Each layer is **more specific** and **more powerful** than the previous one.
 ### 6️⃣ Research Skill
 > Reading documentation, arXiv papers, and Stack Overflow — not just tutorials.
 
-
 ### 7️⃣ Learning Strategy
 - **Spaced Repetition** — Review after 1 day, 3 days, 7 days
 - **Active Recall** — Test yourself without looking at notes
-- *(Feynman Technique — Coming in future class)*
+- **Feynman Technique** — Explain it simply to understand deeply
 
 ### 8️⃣ Documentation
 > Everything I learn must be documented.  
-> If it's not written, it didn't happen.
+### 7️⃣ Learning Strategy
+- **Spaced Repetition** — Review after 1 day, 3 days, 7 days
+- **Active Recall** — Test yourself without looking at notes
+- *(Feynman Technique — Coming in future clas> If it's not written, it didn't happen.
 
 ### 9️⃣ AI as Assistant — Not Replacement
 ---
@@ -152,5 +154,4 @@ Each layer is **more specific** and **more powerful** than the previous one.
 *📌 Repository: [ml-learning-journey](https://github.com/cyberxpertme/ml-learning-journey)*  
 *👤 Author: Nahid Chowdhury*  
 *📅 Journey Started: 08 August 2026*
-
 
